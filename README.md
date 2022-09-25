@@ -1,6 +1,6 @@
-![Blue Peach Watch Movie and Chill Twitter Banner (3)](https://raw.githubusercontent.com/HermanDhillon/GitPage/main/images/Screenshot%202022-09-04%20000916.png)
+![My Banner](https://raw.githubusercontent.com/HermanDhillon/GitPage/main/images/Screenshot%202022-09-04%20000916.png?token=GHSAT0AAAAAABWQHQVB3YYNRX2JIGTOCYLOYZQXAPA)
 
-<h1 align="center">Hello! <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Herman Dhillon</h1>
+<h1 align="center"> <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"> Hello! I'm Herman Dhillon</h1>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b align="center"></b> <br>
 
@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about Websites, Apps, and Development.
 
-<p>"About me goes here"
+<p>I'm a creative software engineer with a passion for learning and developing. I have a BS in Aerospace Science and Engineering as well as Mechanical Engineering. It was while developing Computational Fluid Dynamics code in university that I discovered my love for programming. I have since worked on projects in Machine Learning, DevOPS, Front and Back-end development. All while using and implementing agile/scrum methodologies. I'd love to continue working with diverse and passionate teams to help improve the world we live in. 
 </ p>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -112,10 +112,13 @@ https://user-images.githubusercontent.com/97814431/168459317-a08e1dcf-9335-4331-
 <h2 align="center">Contact Me:
 
 <a href="https://twitter.com/DhillonDev_">
-  <img  alt="" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img  alt="" width="35px" src="https://img.icons8.com/color/344/twitter--v1.png" />
 </a>
 <a href="https://hermandhillon.com">
-  <img width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/write-dot-as.svg" />
+  <img width="35px" src="https://img.icons8.com/fluency/344/link.png" />
+</a>
+<a href="https://www.linkedin.com/in/h-dhillon/">
+  <img width="35px" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" />
 </a>
   </h2>
   </ br>
