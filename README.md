@@ -1,16 +1,16 @@
 ![My Banner](https://raw.githubusercontent.com/HermanDhillon/GitPage/main/images/Screenshot%202022-09-04%20000916.png?token=GHSAT0AAAAAABWQHQVB3YYNRX2JIGTOCYLOYZQXAPA)
 
-<h1 align="center"> <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"> Hello! I'm Herman Dhillon</h1>
+<h1 align="center"> <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px"> Welcome! </h1>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b align="center"></b> <br>
 
-- 👦🏽My name is Herman, I am from Sacramento, CA
-- 🚀 I’m a software engineer with an educational background in Aerospace Engineering.
+-  📍 I am from Sacramento, CA.
+- 🚀 I’m a software engineer with a BS in Aerospace Science & Engineering and Mechanical Engineering.
 - 💻 I’m passionate about full stack web development, and learning/applying new technologies.
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about Websites, Apps, and Development.
 
-<p>I'm a creative software engineer with a passion for learning and developing. I have a BS in Aerospace Science and Engineering as well as Mechanical Engineering. It was while developing Computational Fluid Dynamics code in university that I discovered my love for programming. I have since worked on projects in Machine Learning, DevOPS, Front and Back-end development. All while using and implementing agile/scrum methodologies. I'd love to continue working with diverse and passionate teams to help improve the world we live in. 
+<p>I'm a creative software engineer with a passion for learning and developing. I discovered my love for programming while writing Computational Fluid Dynamics code in university. I have since worked on projects in Machine Learning, DevOPS, Front and Back-end development, all while using and implementing agile/scrum methodologies. I'd love to continue working with diverse and passionate teams to help improve the world we live in. 
 </ p>
 
 <h3 align="center">Languages and Tools:</h3>
