@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Open-source Projects.
 - 💬 Ask me about Websites, Apps, and Development.
 
-<p>I'm a creative software engineer with a passion for learning and developing. I discovered my love for programming while writing Computational Fluid Dynamics code in university. I have since worked on projects in Machine Learning, DevOPS, Front and Back-end development, all while using and implementing agile/scrum methodologies. I'd love to continue working with diverse and passionate teams to help improve the world we live in. 
+<p>I'm a creative software engineer with a passion for learning and developing. I discovered my love for programming while writing Computational Fluid Dynamics code in university. I have since worked on projects in Machine Learning, DevOps, Front and Back-end development, all while using and implementing agile/scrum methodologies. I'd love to continue working with diverse and passionate teams to help improve the world we live in. 
 </ p>
 
 <h3 align="center">Languages and Tools:</h3>
